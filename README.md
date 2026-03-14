@@ -40,8 +40,7 @@ aditya = {
 - 🔨 Building small **AI tools & libraries** to solve real problems
 - 🤝 Looking to **collaborate on beginner-friendly open source AI projects**
 - 💬 Ask me about my **AI learning journey**
-- 📫 Reach me at: *(add your email or socials)*
-
+- 📫 Reach me at: adityasdhondge04@gmail.com
 ---
 
 ## 📊 GitHub Stats
